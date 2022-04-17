@@ -1,1 +1,3 @@
-# applied_data_science_project_1
+# Project # 1
+
+Applied_data_science_project_1
