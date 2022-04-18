@@ -1,13 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Petroco - MIIA4102
-Profesor: Andrés L. Medaglia (amedagli@uniandes.edu.co)
-Instructor: Alfaima Solano
-Asistente: Johan Camacho
-Created:  Aug. 31, 2020
-Modified: Sep. 10, 2020
-@author: amedagli
-"""
+
 #%% Importar las funciones de PuLP y otros
 
 import pulp as lp
